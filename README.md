@@ -7,5 +7,4 @@ CONTROLS
 ----------------------------
 P - Opens control panel for boids | 
 WASD - Move camera | 
-Mouse - Rotate camera | 
- 
+Mouse - Rotate camera
