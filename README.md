@@ -5,6 +5,7 @@ Made for UoG assignment.
 
 CONTROLS
 ----------------------------
-P - Opens control panel for boids
-WASD - Move camera
-Mouse - Rotate camera
+P - Opens control panel for boids | 
+WASD - Move camera | 
+Mouse - Rotate camera | 
+ 
